@@ -1,7 +1,7 @@
 # Space Invader Game  
 
 ## Project Overview  
-The **Space Invader Game** is a classic arcade-style game where players control a spaceship and attempt to survive while eliminating all aliens. The player's mission is to **dodge enemy bullets and destroy every alien**. The spaceship can be moved left and right using the arrow keys, and players can shoot bullets by pressing the space bar. The game keeps track of the player's score, increasing difficulty as the game progresses.  
+The **Space Invader Game** is a classic arcade-style game where players control a spaceship and attempt to survive while eliminating all aliens. The player's mission is to **dodge enemy bullets and destroy every alien**. The spaceship can be moved left and right using the arrow keys, and players can shoot bullets by pressing the space bar. The game keeps track of the player's score.  
 
 ---  
 
@@ -10,7 +10,7 @@ The **Space Invader Game** is a classic arcade-style game where players control 
 2. The player shoots bullets using the **space bar** to eliminate aliens.  
 3. Aliens fire bullets downward, and the player must **dodge enemy bullets** while trying to destroy all aliens.  
 4. The game continues until all aliens are defeated or the player gets hit.  
-5. The score increases with every alien destroyed.  
+
 
 ---  
 
@@ -23,7 +23,7 @@ The **Space Invader Game** is a classic arcade-style game where players control 
 ---  
 
 ## Project Files  
-```bash
+`
 game.py  
 alien_bullet2.png  
 alienship1.png  
@@ -38,7 +38,7 @@ explosion.wav
 explosion2.wav  
 laser.wav  
 ship.png  
-space_bg.jpg
+space_bg.jpg'
 ---
 
 
