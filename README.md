@@ -38,13 +38,16 @@ explosion.wav
 explosion2.wav  
 laser.wav  
 ship.png  
-space_bg.jpg  
+space_bg.jpg
+
+---
+
 
 ## Requirements  
 - **Python 3.x** installed.  
 - Required Python library:  
   ```bash
-  pip install pygame  
+  pip install pygame  ```
 
 
 ---  
