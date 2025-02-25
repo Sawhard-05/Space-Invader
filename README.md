@@ -39,30 +39,26 @@ explosion2.wav
 laser.wav  
 ship.png  
 space_bg.jpg
-
 ---
 
 
 ## Requirements  
 - **Python 3.x** installed.  
-- Required Python library:  
-  ```bash
-  pip install pygame  ```
-
+- Required Python libraries:  
+  - `pygame`  
+- Image and sound files placed in the same directory as `game.py`.  
 
 ---  
 
 ## How to Run  
-```md
-1. Ensure all game assets (images, sounds) are in the same directory as `game.py`.  
-2. Run the game script:  
-   ```bash
+1. Ensure all files are in the same directory as `game.py`.  
+2. Run the game using the command:  
+
+   ```bash  
    python game.py  
 
----  
-
 ## Why I Built This Project  
-```md
-- **To learn and explore game development** using Python and Pygame.  
-- **To recreate a classic arcade experience** with interactive gameplay and progression.  
-- **To enhance problem-solving skills** by implementing mechanics like collision detection and scoring.  
+This project was created to:  
+- **Learn and explore game development** using Python and Pygame.  
+- **Recreate a classic arcade experience** with simple controls and engaging gameplay.  
+- **Improve coding skills in handling graphics, sounds, and events.**  
